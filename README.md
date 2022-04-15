@@ -12,8 +12,7 @@ In this assignment, we create a data visualization map (Figure 1) which shows th
     - [covid data](https://github.com/KubiaPXH/covid-19_evolution_map/tree/main/data/raw/covid%20data): covid raw data
     - [GIS data](https://github.com/KubiaPXH/covid-19_evolution_map/tree/main/data/raw/GIS%20data): GIS data to plot the map
 - [graphs](https://github.com/KubiaPXH/covid-19_evolution_map/tree/main/graphs): generated graphics and figures to be used in the thesis
-  - [s
+  - [separated graphs](https://github.com/KubiaPXH/covid-19_evolution_map/tree/main/graphs/separated%20graphs): separated graphs for each period covid map
+  - [animated graphs](https://github.com/KubiaPXH/covid-19_evolution_map/tree/main/graphs/separated%20graphs): animated map created by combining all separated maps
 - [references](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/references): related documentations with the thesis
 - [scr](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/scr): source code for use in this project
-  - [code](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/scr/code): code for ploting and running econometrics model
-  - [notebook](https://github.com/KubiaPXH/effectiveness_of_APPCAP-M1_thesis/tree/master/scr/notebook): jupiter notebook with code for ploting and running econometrics model
